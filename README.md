@@ -238,14 +238,11 @@ This helps understand how **pricing affects revenue generation**.
 # 📁 Project Structure
 
 ```
-Business-Sales-Analysis-Project
+Business-Sales-Analysis-Project/
 │
-├── Python Data Analysis Projects
-│
-│            │
-│            ├── BusinessAnalysis.ipynb
-│            ├── ecommerce_sales_dirty.csv
-│            └── README.md
+├── BusinessAnalysis.ipynb
+├── ecommerce_sales_dirty.csv
+└── README.md
 ```
 
 ---
